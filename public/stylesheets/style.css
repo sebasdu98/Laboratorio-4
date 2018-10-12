@@ -1,0 +1,35 @@
+body {
+  background-image: url(https://www.fondosanimales.com/Imagenes/fondo-artistico-de-un-gato.jpg); }
+
+h1 {
+  color: #FF8C00;
+  text-align: center; }
+
+p {
+  text-align: center;
+  color: #FF8C00; }
+
+a {
+  font-size: 16px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #FF8C00;
+  display: block; }
+
+img {
+  margin: 10px auto;
+  display: block; }
+
+iframe {
+  margin: 10px auto;
+  display: block; }
+
+form {
+  color: red;
+  padding: 2px;
+  cursor: pointer;
+  display: block;
+  width: 290px;
+  margin: 0 auto;
+  text-align: center; }
